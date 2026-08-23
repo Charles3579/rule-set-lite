@@ -1,0 +1,23 @@
+{
+  "sources": {
+    "proxy_domain": [
+      "https://raw.githubusercontent.com/Charles3579/merge-rules/refs/heads/release/proxy-domain.txt"
+    ],
+    "direct_domain": [
+      "https://raw.githubusercontent.com/Charles3579/merge-rules/refs/heads/release/direct-domain.txt"
+    ],
+    "direct_ipv4": [
+      "https://raw.githubusercontent.com/Charles3579/merge-rules/refs/heads/release/direct-ip-v4.txt"
+    ],
+    "direct_ipv6": [
+      "https://raw.githubusercontent.com/Charles3579/merge-rules/refs/heads/release/direct-ip-v6.txt"
+    ]
+  },
+  "download": {
+    "retry_count": 3,
+    "timeout_seconds": 30,
+    "retry_delay_seconds": 2
+  },
+  "output_directory": "rule",
+  "timezone": "Asia/Singapore"
+}

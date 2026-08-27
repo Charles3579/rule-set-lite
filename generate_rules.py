@@ -335,6 +335,12 @@ def build_outputs(
     surge_proxy_domains = [f"DOMAIN-SUFFIX,{item}" for item in rules["proxy_domain"]]
     surge_ipv4 = [f"IP-CIDR,{item}" for item in rules["direct_ipv4"]]
     surge_ipv6 = [f"IP-CIDR6,{item}" for item in rules["direct_ipv6"]]
+    surge_ipv4_no_resolve = [
+        f"IP-CIDR,{item},no-resolve" for item in rules["direct_ipv4"]
+    ]
+    surge_ipv6_no_resolve = [
+        f"IP-CIDR6,{item},no-resolve" for item in rules["direct_ipv6"]
+    ]
 
     qx_direct_domains = [
         f"HOST-SUFFIX,{item},Direct-Domain" for item in rules["direct_domain"]
@@ -350,7 +356,13 @@ def build_outputs(
             surge_direct_domains, updated_at
         ),
         Path("Surge/Direct-IPv4.list"): _render_file(surge_ipv4, updated_at),
+        Path("Surge/Direct-IPv4_no-resolve.list"): _render_file(
+            surge_ipv4_no_resolve, updated_at
+        ),
         Path("Surge/Direct-IPv6.list"): _render_file(surge_ipv6, updated_at),
+        Path("Surge/Direct-IPv6_no-resolve.list"): _render_file(
+            surge_ipv6_no_resolve, updated_at
+        ),
         Path("Surge/Proxy-Domain.list"): _render_file(
             surge_proxy_domains, updated_at
         ),

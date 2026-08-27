@@ -82,6 +82,18 @@ class GenerateRulesTests(unittest.TestCase):
             "# TOTAL: 1\n"
             "IP-CIDR,1.2.4.0/24\n",
         )
+        self.assertEqual(
+            outputs[Path("Surge/Direct-IPv4_no-resolve.list")],
+            "# UPDATED: 2026-08-22 02:30:55\n"
+            "# TOTAL: 1\n"
+            "IP-CIDR,1.2.4.0/24,no-resolve\n",
+        )
+        self.assertEqual(
+            outputs[Path("Surge/Direct-IPv6_no-resolve.list")],
+            "# UPDATED: 2026-08-22 02:30:55\n"
+            "# TOTAL: 1\n"
+            "IP-CIDR6,2a13:1800::/29,no-resolve\n",
+        )
         self.assertIn(
             "HOST-SUFFIX,google.com,Proxy-Domain\n",
             outputs[Path("QuantumultX/Proxy-Domain.list")],
@@ -193,9 +205,15 @@ class GenerateRulesTests(unittest.TestCase):
                     now=datetime(2026, 8, 22, 2, 30, 55),
                     downloader=downloader,
                 )
-                self.assertEqual(len(generated), 8)
+                self.assertEqual(len(generated), 10)
                 self.assertFalse((output / "stale.txt").exists())
                 self.assertTrue((output / "Surge/Direct-Domain.list").is_file())
+                self.assertTrue(
+                    (output / "Surge/Direct-IPv4_no-resolve.list").is_file()
+                )
+                self.assertTrue(
+                    (output / "Surge/Direct-IPv6_no-resolve.list").is_file()
+                )
                 self.assertTrue(
                     (output / "QuantumultX/Proxy-Domain.list").is_file()
                 )

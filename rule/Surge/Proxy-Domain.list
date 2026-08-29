@@ -1,5 +1,5 @@
-# UPDATED: 2026-08-30 00:26:52
-# TOTAL: 4532
+# UPDATED: 2026-08-30 02:16:32
+# TOTAL: 4540
 DOMAIN-SUFFIX,000webhost.com
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,1-apple.com.tw
@@ -901,6 +901,10 @@ DOMAIN-SUFFIX,cosplayjav.pl
 DOMAIN-SUFFIX,costco.com
 DOMAIN-SUFFIX,cotweet.com
 DOMAIN-SUFFIX,counter.social
+DOMAIN-SUFFIX,courier-push-apple.com.akadns.net
+DOMAIN-SUFFIX,courier-sandbox-push-apple.com.akadns.net
+DOMAIN-SUFFIX,courier.push.apple.com
+DOMAIN-SUFFIX,courier.sandbox.push.apple.com
 DOMAIN-SUFFIX,coursehero.com
 DOMAIN-SUFFIX,covenantswatch.org.tw
 DOMAIN-SUFFIX,coze.com
@@ -3118,6 +3122,7 @@ DOMAIN-SUFFIX,purepdf.com
 DOMAIN-SUFFIX,purevpn.com
 DOMAIN-SUFFIX,purpose.nike.com
 DOMAIN-SUFFIX,pursuestar.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,putty.org
 DOMAIN-SUFFIX,pximg.net
@@ -3279,6 +3284,7 @@ DOMAIN-SUFFIX,saintyculture.com
 DOMAIN-SUFFIX,sakuralive.com
 DOMAIN-SUFFIX,saltyfish.io
 DOMAIN-SUFFIX,salvation.org.hk
+DOMAIN-SUFFIX,sandbox.push.apple.com
 DOMAIN-SUFFIX,sankakucomplex.com
 DOMAIN-SUFFIX,sankei.com
 DOMAIN-SUFFIX,sanmin.com.tw
@@ -3568,6 +3574,7 @@ DOMAIN-SUFFIX,surrenderat20.net
 DOMAIN-SUFFIX,suyingtv.com
 DOMAIN-SUFFIX,swagbucks.com
 DOMAIN-SUFFIX,swapspace.co
+DOMAIN-SUFFIX,swiftgram.app
 DOMAIN-SUFFIX,swissinfo.ch
 DOMAIN-SUFFIX,swissvpn.net
 DOMAIN-SUFFIX,switch1.jp
@@ -4172,6 +4179,7 @@ DOMAIN-SUFFIX,wealth.com.tw
 DOMAIN-SUFFIX,wearn.com
 DOMAIN-SUFFIX,web.dev
 DOMAIN-SUFFIX,web2project.net
+DOMAIN-SUFFIX,webcourier.push.apple.com
 DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,webpkgcache.com
 DOMAIN-SUFFIX,webrtc.org

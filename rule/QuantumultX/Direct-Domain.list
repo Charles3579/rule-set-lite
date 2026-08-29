@@ -1,5 +1,5 @@
-# UPDATED: 2026-08-30 00:26:52
-# TOTAL: 112196
+# UPDATED: 2026-08-30 02:16:32
+# TOTAL: 112180
 HOST-SUFFIX,0.xn--czrs0t,Direct-Domain
 HOST-SUFFIX,0.xn--unup4y,Direct-Domain
 HOST-SUFFIX,0.zone,Direct-Domain
@@ -12572,7 +12572,6 @@ HOST-SUFFIX,api-forwards.com,Direct-Domain
 HOST-SUFFIX,api-m.com,Direct-Domain
 HOST-SUFFIX,api-vod-qcloud.com,Direct-Domain
 HOST-SUFFIX,api.anythinktech.com,Direct-Domain
-HOST-SUFFIX,api.apple-cloudkit.com,Direct-Domain
 HOST-SUFFIX,api.blipsandchitz.me,Direct-Domain
 HOST-SUFFIX,api.cnno1.uds.lenovo.com,Direct-Domain
 HOST-SUFFIX,api.djiservice.org,Direct-Domain
@@ -12704,11 +12703,14 @@ HOST-SUFFIX,appkefu.com,Direct-Domain
 HOST-SUFFIX,applausefz.com,Direct-Domain
 HOST-SUFFIX,appldnld.apple.com,Direct-Domain
 HOST-SUFFIX,appldnld.g.aaplimg.com,Direct-Domain
+HOST-SUFFIX,apple-cloudkit.com,Direct-Domain
 HOST-SUFFIX,apple-corer.com,Direct-Domain
 HOST-SUFFIX,apple-dns.cn,Direct-Domain
 HOST-SUFFIX,apple-dns.com.cn,Direct-Domain
-HOST-SUFFIX,apple-native-relay.apple.com,Direct-Domain
+HOST-SUFFIX,apple-livephotoskit.com,Direct-Domain
+HOST-SUFFIX,apple-mapkit.com,Direct-Domain
 HOST-SUFFIX,apple.cn,Direct-Domain
+HOST-SUFFIX,apple.com,Direct-Domain
 HOST-SUFFIX,apple.com.cn,Direct-Domain
 HOST-SUFFIX,apple110.com,Direct-Domain
 HOST-SUFFIX,apple114.com,Direct-Domain
@@ -12783,6 +12785,7 @@ HOST-SUFFIX,aptenon.com,Direct-Domain
 HOST-SUFFIX,apubond.com,Direct-Domain
 HOST-SUFFIX,apusic.com,Direct-Domain
 HOST-SUFFIX,apwuyou.com,Direct-Domain
+HOST-SUFFIX,apzones.com,Direct-Domain
 HOST-SUFFIX,aq2y.com,Direct-Domain
 HOST-SUFFIX,aqara.com,Direct-Domain
 HOST-SUFFIX,aqb.so,Direct-Domain
@@ -13279,7 +13282,6 @@ HOST-SUFFIX,audiobuy.cc,Direct-Domain
 HOST-SUFFIX,audiocn.com,Direct-Domain
 HOST-SUFFIX,audiocn.net,Direct-Domain
 HOST-SUFFIX,audiocn.org,Direct-Domain
-HOST-SUFFIX,audiocontentdownload.apple.com,Direct-Domain
 HOST-SUFFIX,audiofamily.net,Direct-Domain
 HOST-SUFFIX,audiotop.net,Direct-Domain
 HOST-SUFFIX,audiowell.com,Direct-Domain
@@ -13663,6 +13665,7 @@ HOST-SUFFIX,axisfluid.com,Direct-Domain
 HOST-SUFFIX,axjm-ex.com,Direct-Domain
 HOST-SUFFIX,axjsw.com,Direct-Domain
 HOST-SUFFIX,axjx.com,Direct-Domain
+HOST-SUFFIX,axm-usercontent-apple.com,Direct-Domain
 HOST-SUFFIX,axmro.com,Direct-Domain
 HOST-SUFFIX,axnsc.com,Direct-Domain
 HOST-SUFFIX,axon-assets-cdn.razerzone.com,Direct-Domain
@@ -18930,7 +18933,6 @@ HOST-SUFFIX,caps-china.org,Direct-Domain
 HOST-SUFFIX,capsuleshanghai.com,Direct-Domain
 HOST-SUFFIX,captain-cro.com,Direct-Domain
 HOST-SUFFIX,captainbi.com,Direct-Domain
-HOST-SUFFIX,captive.apple.com,Direct-Domain
 HOST-SUFFIX,capturetheflag.fun,Direct-Domain
 HOST-SUFFIX,capvision.com,Direct-Domain
 HOST-SUFFIX,capwhale.com,Direct-Domain
@@ -19717,6 +19719,7 @@ HOST-SUFFIX,cdmhwh.com,Direct-Domain
 HOST-SUFFIX,cdmjwater.com,Direct-Domain
 HOST-SUFFIX,cdms-china.com,Direct-Domain
 HOST-SUFFIX,cdn-ali.content.steamchina.com,Direct-Domain
+HOST-SUFFIX,cdn-apple.com,Direct-Domain
 HOST-SUFFIX,cdn-build.com,Direct-Domain
 HOST-SUFFIX,cdn-build.net,Direct-Domain
 HOST-SUFFIX,cdn-cba.com,Direct-Domain
@@ -28986,7 +28989,6 @@ HOST-SUFFIX,di7cn.net,Direct-Domain
 HOST-SUFFIX,di88.net,Direct-Domain
 HOST-SUFFIX,diablohu.com,Direct-Domain
 HOST-SUFFIX,diact.com,Direct-Domain
-HOST-SUFFIX,diagassets.apple.com,Direct-Domain
 HOST-SUFFIX,diaidi.com,Direct-Domain
 HOST-SUFFIX,diaigame.com,Direct-Domain
 HOST-SUFFIX,dialogue32.com,Direct-Domain
@@ -30449,7 +30451,6 @@ HOST-SUFFIX,download.developer.apple.com,Direct-Domain
 HOST-SUFFIX,download.microsoft.com,Direct-Domain
 HOST-SUFFIX,download.visualstudio.microsoft.com,Direct-Domain
 HOST-SUFFIX,download.windowsupdate.com,Direct-Domain
-HOST-SUFFIX,downloaddispatch.itunes.apple.com,Direct-Domain
 HOST-SUFFIX,downloads.ltd,Direct-Domain
 HOST-SUFFIX,downok.com,Direct-Domain
 HOST-SUFFIX,downos.com,Direct-Domain
@@ -37051,7 +37052,6 @@ HOST-SUFFIX,gastank-china.com,Direct-Domain
 HOST-SUFFIX,gastronomy.gov.mo,Direct-Domain
 HOST-SUFFIX,gate-dhgames.com,Direct-Domain
 HOST-SUFFIX,gateface.com,Direct-Domain
-HOST-SUFFIX,gateway.icloud.com,Direct-Domain
 HOST-SUFFIX,gateweb3.cc,Direct-Domain
 HOST-SUFFIX,gateweb3.io,Direct-Domain
 HOST-SUFFIX,gaudie.org,Direct-Domain
@@ -37420,7 +37420,6 @@ HOST-SUFFIX,gdlz.com,Direct-Domain
 HOST-SUFFIX,gdmagam.com,Direct-Domain
 HOST-SUFFIX,gdmain.com,Direct-Domain
 HOST-SUFFIX,gdmca.org,Direct-Domain
-HOST-SUFFIX,gdmf.apple.com,Direct-Domain
 HOST-SUFFIX,gdmhjjt.com,Direct-Domain
 HOST-SUFFIX,gdmia.com,Direct-Domain
 HOST-SUFFIX,gdminda.com,Direct-Domain
@@ -38052,7 +38051,6 @@ HOST-SUFFIX,gfzihua.com,Direct-Domain
 HOST-SUFFIX,gfzj.us,Direct-Domain
 HOST-SUFFIX,gg-lb.com,Direct-Domain
 HOST-SUFFIX,gg-led.com,Direct-Domain
-HOST-SUFFIX,gg.apple.com,Direct-Domain
 HOST-SUFFIX,gg.com,Direct-Domain
 HOST-SUFFIX,gg122.net,Direct-Domain
 HOST-SUFFIX,gg1994.com,Direct-Domain
@@ -39499,14 +39497,12 @@ HOST-SUFFIX,grzq.com,Direct-Domain
 HOST-SUFFIX,gs-cdn.com,Direct-Domain
 HOST-SUFFIX,gs-loc-cn.apple.com,Direct-Domain
 HOST-SUFFIX,gs-loc.apple.com,Direct-Domain
-HOST-SUFFIX,gs.apple.com,Direct-Domain
 HOST-SUFFIX,gs090.com,Direct-Domain
 HOST-SUFFIX,gs12122.com,Direct-Domain
 HOST-SUFFIX,gs1cn.org,Direct-Domain
 HOST-SUFFIX,gs2.ww.prod.dl.playstation.net,Direct-Domain
 HOST-SUFFIX,gs307.com,Direct-Domain
 HOST-SUFFIX,gs6699.com,Direct-Domain
-HOST-SUFFIX,gsa.apple.com,Direct-Domain
 HOST-SUFFIX,gsadds.com,Direct-Domain
 HOST-SUFFIX,gsafc.com,Direct-Domain
 HOST-SUFFIX,gsafety.com,Direct-Domain
@@ -50044,8 +50040,10 @@ HOST-SUFFIX,iclicash.com,Direct-Domain
 HOST-SUFFIX,iclickstatic.com,Direct-Domain
 HOST-SUFFIX,icliexpo.com,Direct-Domain
 HOST-SUFFIX,icljt.com,Direct-Domain
+HOST-SUFFIX,icloud-content.com,Direct-Domain
 HOST-SUFFIX,icloud-content.com.cn,Direct-Domain
 HOST-SUFFIX,icloud-power.com,Direct-Domain
+HOST-SUFFIX,icloud.com,Direct-Domain
 HOST-SUFFIX,icloud.com.cn,Direct-Domain
 HOST-SUFFIX,icloudcity.com,Direct-Domain
 HOST-SUFFIX,icloudgslb.com,Direct-Domain
@@ -50273,7 +50271,6 @@ HOST-SUFFIX,idingju.com,Direct-Domain
 HOST-SUFFIX,idloves.com,Direct-Domain
 HOST-SUFFIX,idlpc.win,Direct-Domain
 HOST-SUFFIX,idmchina.net,Direct-Domain
-HOST-SUFFIX,idmsa.apple.com,Direct-Domain
 HOST-SUFFIX,idmzj.com,Direct-Domain
 HOST-SUFFIX,idnscloud.com,Direct-Domain
 HOST-SUFFIX,ido-love.com,Direct-Domain
@@ -63930,7 +63927,6 @@ HOST-SUFFIX,maijiemedia.com,Direct-Domain
 HOST-SUFFIX,maikami.vip,Direct-Domain
 HOST-SUFFIX,maikongjian.com,Direct-Domain
 HOST-SUFFIX,mail.lenovo.com,Direct-Domain
-HOST-SUFFIX,mail.me.com,Direct-Domain
 HOST-SUFFIX,mail163.com,Direct-Domain
 HOST-SUFFIX,maila88.com,Direct-Domain
 HOST-SUFFIX,maileds.com,Direct-Domain
@@ -65253,7 +65249,6 @@ HOST-SUFFIX,metmt.com,Direct-Domain
 HOST-SUFFIX,metnews.net,Direct-Domain
 HOST-SUFFIX,metong.com,Direct-Domain
 HOST-SUFFIX,metools.info,Direct-Domain
-HOST-SUFFIX,metrics.icloud.com,Direct-Domain
 HOST-SUFFIX,metro-3d.com,Direct-Domain
 HOST-SUFFIX,metroer.com,Direct-Domain
 HOST-SUFFIX,metrofastpass.com,Direct-Domain
@@ -72970,8 +72965,6 @@ HOST-SUFFIX,playerinfinite.com,Direct-Domain
 HOST-SUFFIX,playfab.cn,Direct-Domain
 HOST-SUFFIX,playfifa.com,Direct-Domain
 HOST-SUFFIX,playgm.cc,Direct-Domain
-HOST-SUFFIX,playground-assets-cdn.apple.com,Direct-Domain
-HOST-SUFFIX,playground-cdn.apple.com,Direct-Domain
 HOST-SUFFIX,playlu.com,Direct-Domain
 HOST-SUFFIX,playorcas.com,Direct-Domain
 HOST-SUFFIX,playtai.com,Direct-Domain
@@ -73148,7 +73141,6 @@ HOST-SUFFIX,pomears.com,Direct-Domain
 HOST-SUFFIX,pomeloyun.com,Direct-Domain
 HOST-SUFFIX,pomoho.com,Direct-Domain
 HOST-SUFFIX,pondernext.com,Direct-Domain
-HOST-SUFFIX,pong.icloud.com,Direct-Domain
 HOST-SUFFIX,ponging.store,Direct-Domain
 HOST-SUFFIX,ponkong.com,Direct-Domain
 HOST-SUFFIX,ponley.com,Direct-Domain
@@ -73368,7 +73360,6 @@ HOST-SUFFIX,pppiii.com,Direct-Domain
 HOST-SUFFIX,pppoevps.com,Direct-Domain
 HOST-SUFFIX,ppppic.com,Direct-Domain
 HOST-SUFFIX,ppppoints.com,Direct-Domain
-HOST-SUFFIX,ppq.apple.com,Direct-Domain
 HOST-SUFFIX,pprxcdn.com,Direct-Domain
 HOST-SUFFIX,pps.tv,Direct-Domain
 HOST-SUFFIX,ppsao.com,Direct-Domain
@@ -73500,7 +73491,6 @@ HOST-SUFFIX,pro001.com,Direct-Domain
 HOST-SUFFIX,pro400.com,Direct-Domain
 HOST-SUFFIX,proangela.com,Direct-Domain
 HOST-SUFFIX,proav-china.com,Direct-Domain
-HOST-SUFFIX,probe.icloud.com,Direct-Domain
 HOST-SUFFIX,probe.siri.apple.com,Direct-Domain
 HOST-SUFFIX,procar.cc,Direct-Domain
 HOST-SUFFIX,processon.com,Direct-Domain
@@ -77270,6 +77260,7 @@ HOST-SUFFIX,reservehemu.com,Direct-Domain
 HOST-SUFFIX,resheji.com,Direct-Domain
 HOST-SUFFIX,resistor.today,Direct-Domain
 HOST-SUFFIX,resnics.com,Direct-Domain
+HOST-SUFFIX,resolvers-cn.httpdns.aliyuncs.com,Direct-Domain
 HOST-SUFFIX,resona-wujl.com,Direct-Domain
 HOST-SUFFIX,resone-shinab.com,Direct-Domain
 HOST-SUFFIX,resowolf.com,Direct-Domain
@@ -80147,7 +80138,6 @@ HOST-SUFFIX,setb2b.com,Direct-Domain
 HOST-SUFFIX,setdg.net,Direct-Domain
 HOST-SUFFIX,seteuid0.com,Direct-Domain
 HOST-SUFFIX,setshop.vip,Direct-Domain
-HOST-SUFFIX,setup.icloud.com,Direct-Domain
 HOST-SUFFIX,seuic.com,Direct-Domain
 HOST-SUFFIX,sevb.com,Direct-Domain
 HOST-SUFFIX,seven-meters.com,Direct-Domain
@@ -89411,12 +89401,8 @@ HOST-SUFFIX,tillcn.com,Direct-Domain
 HOST-SUFFIX,tillglance.com,Direct-Domain
 HOST-SUFFIX,timanetworks.com,Direct-Domain
 HOST-SUFFIX,timatrix.com.cn,Direct-Domain
-HOST-SUFFIX,time-ios.apple.com,Direct-Domain
-HOST-SUFFIX,time-macos.apple.com,Direct-Domain
 HOST-SUFFIX,time-weekly.com,Direct-Domain
 HOST-SUFFIX,time-year.com,Direct-Domain
-HOST-SUFFIX,time.apple.com,Direct-Domain
-HOST-SUFFIX,time.asia.apple.com,Direct-Domain
 HOST-SUFFIX,time.cloud.tencent.com,Direct-Domain
 HOST-SUFFIX,time.izatcloud.net,Direct-Domain
 HOST-SUFFIX,time1.cloud.tencent.com,Direct-Domain
@@ -96643,7 +96629,6 @@ HOST-SUFFIX,wkhub.com,Direct-Domain
 HOST-SUFFIX,wkimg.com,Direct-Domain
 HOST-SUFFIX,wklken.me,Direct-Domain
 HOST-SUFFIX,wkmic.com,Direct-Domain
-HOST-SUFFIX,wkms-public.apple.com,Direct-Domain
 HOST-SUFFIX,wknky1296.com,Direct-Domain
 HOST-SUFFIX,wkoooo.com,Direct-Domain
 HOST-SUFFIX,wkopen.com,Direct-Domain
@@ -101304,7 +101289,6 @@ HOST-SUFFIX,xoyo.com,Direct-Domain
 HOST-SUFFIX,xoyobox.com,Direct-Domain
 HOST-SUFFIX,xoyocdn.com,Direct-Domain
 HOST-SUFFIX,xoyq.net,Direct-Domain
-HOST-SUFFIX,xp-cdn.apple.com,Direct-Domain
 HOST-SUFFIX,xp.apple.com,Direct-Domain
 HOST-SUFFIX,xp3366.com,Direct-Domain
 HOST-SUFFIX,xp535.com,Direct-Domain

@@ -1,5 +1,5 @@
-# UPDATED: 2026-08-31 05:21:39
-# TOTAL: 4544
+# UPDATED: 2026-09-01 06:57:54
+# TOTAL: 4546
 HOST-SUFFIX,000webhost.com,Proxy-Domain
 HOST-SUFFIX,0rz.tw,Proxy-Domain
 HOST-SUFFIX,1-apple.com.tw,Proxy-Domain
@@ -1509,6 +1509,7 @@ HOST-SUFFIX,geti2p.net,Proxy-Domain
 HOST-SUFFIX,getlantern.org,Proxy-Domain
 HOST-SUFFIX,getmalus.com,Proxy-Domain
 HOST-SUFFIX,getmdl.io,Proxy-Domain
+HOST-SUFFIX,getmonero.org,Proxy-Domain
 HOST-SUFFIX,getoutline.org,Proxy-Domain
 HOST-SUFFIX,getsession.org,Proxy-Domain
 HOST-SUFFIX,getsync.com,Proxy-Domain
@@ -2753,6 +2754,7 @@ HOST-SUFFIX,nga.mil,Proxy-Domain
 HOST-SUFFIX,nhentai.net,Proxy-Domain
 HOST-SUFFIX,nic.cz.cc,Proxy-Domain
 HOST-SUFFIX,nic.gov,Proxy-Domain
+HOST-SUFFIX,nicoseiga.jp,Proxy-Domain
 HOST-SUFFIX,nicovideo.jp,Proxy-Domain
 HOST-SUFFIX,nightswatch.top,Proxy-Domain
 HOST-SUFFIX,niihost.com,Proxy-Domain

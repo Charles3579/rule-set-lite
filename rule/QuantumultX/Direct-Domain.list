@@ -1,5 +1,5 @@
-# UPDATED: 2026-09-02 05:12:18
-# TOTAL: 111994
+# UPDATED: 2026-09-03 05:11:36
+# TOTAL: 111972
 HOST-SUFFIX,0.xn--czrs0t,Direct-Domain
 HOST-SUFFIX,0.xn--unup4y,Direct-Domain
 HOST-SUFFIX,0.zone,Direct-Domain
@@ -814,7 +814,6 @@ HOST-SUFFIX,0769sun.com,Direct-Domain
 HOST-SUFFIX,0769sx.com,Direct-Domain
 HOST-SUFFIX,0769web.net,Direct-Domain
 HOST-SUFFIX,076lvo.xyz,Direct-Domain
-HOST-SUFFIX,077.xin,Direct-Domain
 HOST-SUFFIX,0771.tv,Direct-Domain
 HOST-SUFFIX,07712008.com,Direct-Domain
 HOST-SUFFIX,07715555555.com,Direct-Domain
@@ -2772,7 +2771,6 @@ HOST-SUFFIX,2023game.com,Direct-Domain
 HOST-SUFFIX,20240828.xyz,Direct-Domain
 HOST-SUFFIX,2024qq.com,Direct-Domain
 HOST-SUFFIX,2025.net,Direct-Domain
-HOST-SUFFIX,2026cname.com,Direct-Domain
 HOST-SUFFIX,202m.com,Direct-Domain
 HOST-SUFFIX,202wan.com,Direct-Domain
 HOST-SUFFIX,2048ai.net,Direct-Domain
@@ -4169,7 +4167,6 @@ HOST-SUFFIX,37dh.com,Direct-Domain
 HOST-SUFFIX,37game2.com,Direct-Domain
 HOST-SUFFIX,37gjw.com,Direct-Domain
 HOST-SUFFIX,37gogo.com,Direct-Domain
-HOST-SUFFIX,37gowan.com,Direct-Domain
 HOST-SUFFIX,37hr.com,Direct-Domain
 HOST-SUFFIX,37k.com,Direct-Domain
 HOST-SUFFIX,37kx1.com,Direct-Domain
@@ -5308,7 +5305,6 @@ HOST-SUFFIX,51gonggui.com,Direct-Domain
 HOST-SUFFIX,51goods.vip,Direct-Domain
 HOST-SUFFIX,51google.com,Direct-Domain
 HOST-SUFFIX,51gouke.com,Direct-Domain
-HOST-SUFFIX,51gowan.com,Direct-Domain
 HOST-SUFFIX,51gpt.com,Direct-Domain
 HOST-SUFFIX,51gran.com,Direct-Domain
 HOST-SUFFIX,51grb.com,Direct-Domain
@@ -8347,6 +8343,7 @@ HOST-SUFFIX,8888800000.com,Direct-Domain
 HOST-SUFFIX,8889997777.com,Direct-Domain
 HOST-SUFFIX,888ban.com,Direct-Domain
 HOST-SUFFIX,888chem.com,Direct-Domain
+HOST-SUFFIX,888fk.cc,Direct-Domain
 HOST-SUFFIX,888lm01.com,Direct-Domain
 HOST-SUFFIX,888pic.com,Direct-Domain
 HOST-SUFFIX,888ppt.com,Direct-Domain
@@ -8876,7 +8873,6 @@ HOST-SUFFIX,92fa.com,Direct-Domain
 HOST-SUFFIX,92fox.com,Direct-Domain
 HOST-SUFFIX,92gyw.com,Direct-Domain
 HOST-SUFFIX,92hidc.net,Direct-Domain
-HOST-SUFFIX,92jzh.com,Direct-Domain
 HOST-SUFFIX,92kaifa.com,Direct-Domain
 HOST-SUFFIX,92kk.com,Direct-Domain
 HOST-SUFFIX,92le.com,Direct-Domain
@@ -9131,6 +9127,7 @@ HOST-SUFFIX,9692bc70da600f84.com,Direct-Domain
 HOST-SUFFIX,969368.com,Direct-Domain
 HOST-SUFFIX,96966.com,Direct-Domain
 HOST-SUFFIX,969g.com,Direct-Domain
+HOST-SUFFIX,969mak.com,Direct-Domain
 HOST-SUFFIX,96ac893dd11011.beer,Direct-Domain
 HOST-SUFFIX,96caifu.com,Direct-Domain
 HOST-SUFFIX,96cc09c581022.beer,Direct-Domain
@@ -9733,9 +9730,6 @@ HOST-SUFFIX,aadcloud.com,Direct-Domain
 HOST-SUFFIX,aads-cng.net,Direct-Domain
 HOST-SUFFIX,aafanke.cc,Direct-Domain
 HOST-SUFFIX,aafxw.com,Direct-Domain
-HOST-SUFFIX,aai07251mu.com,Direct-Domain
-HOST-SUFFIX,aai07260mu.com,Direct-Domain
-HOST-SUFFIX,aai07280mu.com,Direct-Domain
 HOST-SUFFIX,aakss.com,Direct-Domain
 HOST-SUFFIX,aaltosemi.com,Direct-Domain
 HOST-SUFFIX,aamets.com,Direct-Domain
@@ -11862,7 +11856,6 @@ HOST-SUFFIX,amemv.cn,Direct-Domain
 HOST-SUFFIX,amemv.com,Direct-Domain
 HOST-SUFFIX,amemv.net,Direct-Domain
 HOST-SUFFIX,ameow.xyz,Direct-Domain
-HOST-SUFFIX,americachineselife.com,Direct-Domain
 HOST-SUFFIX,amethystum.com,Direct-Domain
 HOST-SUFFIX,amexpressnetwork.com,Direct-Domain
 HOST-SUFFIX,ameya360.com,Direct-Domain
@@ -12306,7 +12299,6 @@ HOST-SUFFIX,anyrtc.io,Direct-Domain
 HOST-SUFFIX,anyrui.win,Direct-Domain
 HOST-SUFFIX,anysafer.com,Direct-Domain
 HOST-SUFFIX,anyscdn.com,Direct-Domain
-HOST-SUFFIX,anyskygame.com,Direct-Domain
 HOST-SUFFIX,anysql.net,Direct-Domain
 HOST-SUFFIX,anytesting.com,Direct-Domain
 HOST-SUFFIX,anyun100.com,Direct-Domain
@@ -13221,7 +13213,6 @@ HOST-SUFFIX,augix.me,Direct-Domain
 HOST-SUFFIX,augsky.com,Direct-Domain
 HOST-SUFFIX,augurit.com,Direct-Domain
 HOST-SUFFIX,augustcn.com,Direct-Domain
-HOST-SUFFIX,auiou.com,Direct-Domain
 HOST-SUFFIX,aukcl.win,Direct-Domain
 HOST-SUFFIX,aulacn.com,Direct-Domain
 HOST-SUFFIX,auldey.com,Direct-Domain
@@ -15603,6 +15594,7 @@ HOST-SUFFIX,bhhthl.com,Direct-Domain
 HOST-SUFFIX,bhidi.com,Direct-Domain
 HOST-SUFFIX,bhiv.pro,Direct-Domain
 HOST-SUFFIX,bhjcsc.com,Direct-Domain
+HOST-SUFFIX,bhjh168.com,Direct-Domain
 HOST-SUFFIX,bhjinghao.com,Direct-Domain
 HOST-SUFFIX,bhjjj360.com,Direct-Domain
 HOST-SUFFIX,bhjuxian.com,Direct-Domain
@@ -16824,6 +16816,7 @@ HOST-SUFFIX,bkchina.cn,Direct-Domain
 HOST-SUFFIX,bkcloud.cc,Direct-Domain
 HOST-SUFFIX,bkclouds.cc,Direct-Domain
 HOST-SUFFIX,bkcode.net,Direct-Domain
+HOST-SUFFIX,bkd898.com,Direct-Domain
 HOST-SUFFIX,bkdou.com,Direct-Domain
 HOST-SUFFIX,bkeconomy.com,Direct-Domain
 HOST-SUFFIX,bkill.com,Direct-Domain
@@ -17238,7 +17231,6 @@ HOST-SUFFIX,bolanjr.com,Direct-Domain
 HOST-SUFFIX,boldfrontierdesign.com,Direct-Domain
 HOST-SUFFIX,boldseas.com,Direct-Domain
 HOST-SUFFIX,bole-china.com,Direct-Domain
-HOST-SUFFIX,bole.com,Direct-Domain
 HOST-SUFFIX,bole.name,Direct-Domain
 HOST-SUFFIX,bole766.com,Direct-Domain
 HOST-SUFFIX,bolead.com,Direct-Domain
@@ -19370,7 +19362,6 @@ HOST-SUFFIX,ccsacacasfdghh.com,Direct-Domain
 HOST-SUFFIX,ccschangsha.com,Direct-Domain
 HOST-SUFFIX,ccscrbyy.com,Direct-Domain
 HOST-SUFFIX,ccsedqrmyy.com,Direct-Domain
-HOST-SUFFIX,ccsfuchan.com,Direct-Domain
 HOST-SUFFIX,ccsjhbj.com,Direct-Domain
 HOST-SUFFIX,ccskqyy.com,Direct-Domain
 HOST-SUFFIX,ccsngqyy.com,Direct-Domain
@@ -31289,7 +31280,6 @@ HOST-SUFFIX,dztester.com,Direct-Domain
 HOST-SUFFIX,dztugongbu.net,Direct-Domain
 HOST-SUFFIX,dztv.tv,Direct-Domain
 HOST-SUFFIX,dztz168.com,Direct-Domain
-HOST-SUFFIX,dzvv.com,Direct-Domain
 HOST-SUFFIX,dzwad.com,Direct-Domain
 HOST-SUFFIX,dzwebs.net,Direct-Domain
 HOST-SUFFIX,dzwindows.com,Direct-Domain
@@ -32680,7 +32670,6 @@ HOST-SUFFIX,entertainment.dji.com,Direct-Domain
 HOST-SUFFIX,enthalpy.space,Direct-Domain
 HOST-SUFFIX,entive.com,Direct-Domain
 HOST-SUFFIX,entstudy.com,Direct-Domain
-HOST-SUFFIX,entts.com,Direct-Domain
 HOST-SUFFIX,enuomachinery.net,Direct-Domain
 HOST-SUFFIX,envi-ch.com,Direct-Domain
 HOST-SUFFIX,envisionagents.com,Direct-Domain
@@ -32998,7 +32987,6 @@ HOST-SUFFIX,essxp.com,Direct-Domain
 HOST-SUFFIX,essyy.com,Direct-Domain
 HOST-SUFFIX,estandonhotel.com,Direct-Domain
 HOST-SUFFIX,esteellink.com,Direct-Domain
-HOST-SUFFIX,estelchina.com,Direct-Domain
 HOST-SUFFIX,estonegroup.com,Direct-Domain
 HOST-SUFFIX,estory365.com,Direct-Domain
 HOST-SUFFIX,estrongs.com,Direct-Domain
@@ -33227,6 +33215,7 @@ HOST-SUFFIX,evfchina.com,Direct-Domain
 HOST-SUFFIX,evget.com,Direct-Domain
 HOST-SUFFIX,evgezphv.com,Direct-Domain
 HOST-SUFFIX,evhui.com,Direct-Domain
+HOST-SUFFIX,evhzzh.com,Direct-Domain
 HOST-SUFFIX,evideostb.com,Direct-Domain
 HOST-SUFFIX,evileyesaint.com,Direct-Domain
 HOST-SUFFIX,evilleaker.com,Direct-Domain
@@ -35066,7 +35055,6 @@ HOST-SUFFIX,fjtd-logistics.com,Direct-Domain
 HOST-SUFFIX,fjtelecom.com,Direct-Domain
 HOST-SUFFIX,fjtp.net,Direct-Domain
 HOST-SUFFIX,fjtv.net,Direct-Domain
-HOST-SUFFIX,fjvs.org,Direct-Domain
 HOST-SUFFIX,fjwanan.com,Direct-Domain
 HOST-SUFFIX,fjwjgs.com,Direct-Domain
 HOST-SUFFIX,fjwr.xyz,Direct-Domain
@@ -36763,7 +36751,6 @@ HOST-SUFFIX,ganyeah.com,Direct-Domain
 HOST-SUFFIX,ganyu.com,Direct-Domain
 HOST-SUFFIX,ganyu8.net,Direct-Domain
 HOST-SUFFIX,ganyurc.com,Direct-Domain
-HOST-SUFFIX,ganzhe.com,Direct-Domain
 HOST-SUFFIX,ganzhishi.com,Direct-Domain
 HOST-SUFFIX,ganzhong.net,Direct-Domain
 HOST-SUFFIX,ganzitv.com,Direct-Domain
@@ -36884,7 +36871,6 @@ HOST-SUFFIX,gaoxinedu.com,Direct-Domain
 HOST-SUFFIX,gaoxinedu.net,Direct-Domain
 HOST-SUFFIX,gaoxinjy.com,Direct-Domain
 HOST-SUFFIX,gaoxitech.com,Direct-Domain
-HOST-SUFFIX,gaoyawang.com,Direct-Domain
 HOST-SUFFIX,gaoyizaixian.com,Direct-Domain
 HOST-SUFFIX,gaoyoujob.com,Direct-Domain
 HOST-SUFFIX,gaozhaiedu.com,Direct-Domain
@@ -39746,7 +39732,6 @@ HOST-SUFFIX,guangxilonghua.com,Direct-Domain
 HOST-SUFFIX,guangxima.com,Direct-Domain
 HOST-SUFFIX,guangximinhang.com,Direct-Domain
 HOST-SUFFIX,guangxinengyuan.com,Direct-Domain
-HOST-SUFFIX,guangxipubeihuaheng.com,Direct-Domain
 HOST-SUFFIX,guangxircw.com,Direct-Domain
 HOST-SUFFIX,guangxishangfu.com,Direct-Domain
 HOST-SUFFIX,guangxishuizhiyangzhigongsi.com,Direct-Domain
@@ -40027,7 +40012,6 @@ HOST-SUFFIX,guogongxin.com,Direct-Domain
 HOST-SUFFIX,guoguangmold.com,Direct-Domain
 HOST-SUFFIX,guoguo-app.com,Direct-Domain
 HOST-SUFFIX,guohanlawfirm.com,Direct-Domain
-HOST-SUFFIX,guohaokeji.com,Direct-Domain
 HOST-SUFFIX,guohongxin.com,Direct-Domain
 HOST-SUFFIX,guohu360.com,Direct-Domain
 HOST-SUFFIX,guohua88.com,Direct-Domain
@@ -47863,6 +47847,7 @@ HOST-SUFFIX,huayilighting.com,Direct-Domain
 HOST-SUFFIX,huayimedia.com,Direct-Domain
 HOST-SUFFIX,huayiming.com,Direct-Domain
 HOST-SUFFIX,huayin114.com,Direct-Domain
+HOST-SUFFIX,huayin99.com,Direct-Domain
 HOST-SUFFIX,huayingglass.com,Direct-Domain
 HOST-SUFFIX,huayingrc.com,Direct-Domain
 HOST-SUFFIX,huayingsc.com,Direct-Domain
@@ -51635,7 +51620,6 @@ HOST-SUFFIX,iquanwai.com,Direct-Domain
 HOST-SUFFIX,iquaveizeeru.com,Direct-Domain
 HOST-SUFFIX,ique.com,Direct-Domain
 HOST-SUFFIX,iquegui.com,Direct-Domain
-HOST-SUFFIX,iquhuo.com,Direct-Domain
 HOST-SUFFIX,iquickfish.com,Direct-Domain
 HOST-SUFFIX,iqujing.com,Direct-Domain
 HOST-SUFFIX,iqunix.com,Direct-Domain
@@ -52845,6 +52829,7 @@ HOST-SUFFIX,jdlingyu.net,Direct-Domain
 HOST-SUFFIX,jdmwk.com,Direct-Domain
 HOST-SUFFIX,jdmy.com,Direct-Domain
 HOST-SUFFIX,jdnews.net,Direct-Domain
+HOST-SUFFIX,jdo2c.com,Direct-Domain
 HOST-SUFFIX,jdon.com,Direct-Domain
 HOST-SUFFIX,jdpay.com,Direct-Domain
 HOST-SUFFIX,jdpaydns.com,Direct-Domain
@@ -53271,7 +53256,6 @@ HOST-SUFFIX,jiancenj.com,Direct-Domain
 HOST-SUFFIX,jiancent.com,Direct-Domain
 HOST-SUFFIX,jiancepai.com,Direct-Domain
 HOST-SUFFIX,jiancepaper.com,Direct-Domain
-HOST-SUFFIX,jianchacha.com,Direct-Domain
 HOST-SUFFIX,jianchiapp.com,Direct-Domain
 HOST-SUFFIX,jianchihu.net,Direct-Domain
 HOST-SUFFIX,jiandaima.com,Direct-Domain
@@ -54880,6 +54864,7 @@ HOST-SUFFIX,jllihua.com,Direct-Domain
 HOST-SUFFIX,jllyzxyy.com,Direct-Domain
 HOST-SUFFIX,jlmhk.com,Direct-Domain
 HOST-SUFFIX,jlmuban.com,Direct-Domain
+HOST-SUFFIX,jlmy.com,Direct-Domain
 HOST-SUFFIX,jlnku.com,Direct-Domain
 HOST-SUFFIX,jlnls.com,Direct-Domain
 HOST-SUFFIX,jlonline.com,Direct-Domain
@@ -56478,7 +56463,6 @@ HOST-SUFFIX,juyouxuan.vip,Direct-Domain
 HOST-SUFFIX,juyuan.com,Direct-Domain
 HOST-SUFFIX,juyuewang.net,Direct-Domain
 HOST-SUFFIX,juyun.tv,Direct-Domain
-HOST-SUFFIX,juyutube.com,Direct-Domain
 HOST-SUFFIX,juyuweb.net,Direct-Domain
 HOST-SUFFIX,juzhen.com,Direct-Domain
 HOST-SUFFIX,juzhen.io,Direct-Domain
@@ -56521,6 +56505,7 @@ HOST-SUFFIX,jvtianshanuu.com,Direct-Domain
 HOST-SUFFIX,jvyou.net,Direct-Domain
 HOST-SUFFIX,jw100.net,Direct-Domain
 HOST-SUFFIX,jw1588.com,Direct-Domain
+HOST-SUFFIX,jwangzhong.com,Direct-Domain
 HOST-SUFFIX,jwappgc.com,Direct-Domain
 HOST-SUFFIX,jwautoparts.com,Direct-Domain
 HOST-SUFFIX,jwbf.online,Direct-Domain
@@ -59273,6 +59258,7 @@ HOST-SUFFIX,kyv5.com,Direct-Domain
 HOST-SUFFIX,kyw4y0s.com,Direct-Domain
 HOST-SUFFIX,kyxdloan.com,Direct-Domain
 HOST-SUFFIX,kyxh.com,Direct-Domain
+HOST-SUFFIX,kyxinli.com,Direct-Domain
 HOST-SUFFIX,kyxsw.org,Direct-Domain
 HOST-SUFFIX,kyy6.com,Direct-Domain
 HOST-SUFFIX,kyzhpt.com,Direct-Domain
@@ -60805,7 +60791,6 @@ HOST-SUFFIX,lianqigong.com,Direct-Domain
 HOST-SUFFIX,liansaipiao.com,Direct-Domain
 HOST-SUFFIX,lianshang.com,Direct-Domain
 HOST-SUFFIX,lianshijie.com,Direct-Domain
-HOST-SUFFIX,lianshun.cc,Direct-Domain
 HOST-SUFFIX,liansn.com,Direct-Domain
 HOST-SUFFIX,liansuo.com,Direct-Domain
 HOST-SUFFIX,liantianhong.com,Direct-Domain
@@ -62130,6 +62115,7 @@ HOST-SUFFIX,longau.com,Direct-Domain
 HOST-SUFFIX,longbenren.com,Direct-Domain
 HOST-SUFFIX,longcai.com,Direct-Domain
 HOST-SUFFIX,longcai027.com,Direct-Domain
+HOST-SUFFIX,longcat.chat,Direct-Domain
 HOST-SUFFIX,longchangjixiekeji.com,Direct-Domain
 HOST-SUFFIX,longcheer.com,Direct-Domain
 HOST-SUFFIX,longchunbajiao.com,Direct-Domain
@@ -63451,7 +63437,6 @@ HOST-SUFFIX,lzmmob.com,Direct-Domain
 HOST-SUFFIX,lzmoyin.com,Direct-Domain
 HOST-SUFFIX,lzmun.com,Direct-Domain
 HOST-SUFFIX,lzmy123.com,Direct-Domain
-HOST-SUFFIX,lznbjz.com,Direct-Domain
 HOST-SUFFIX,lznetease.com,Direct-Domain
 HOST-SUFFIX,lznrlmxh.com,Direct-Domain
 HOST-SUFFIX,lzoam.com,Direct-Domain
@@ -63594,7 +63579,6 @@ HOST-SUFFIX,m999.com,Direct-Domain
 HOST-SUFFIX,m9dz.com,Direct-Domain
 HOST-SUFFIX,ma-china.com,Direct-Domain
 HOST-SUFFIX,ma.run,Direct-Domain
-HOST-SUFFIX,ma3office.com,Direct-Domain
 HOST-SUFFIX,ma3you.com,Direct-Domain
 HOST-SUFFIX,ma5000.com,Direct-Domain
 HOST-SUFFIX,maa.plus,Direct-Domain
@@ -66764,7 +66748,6 @@ HOST-SUFFIX,mshxw.com,Direct-Domain
 HOST-SUFFIX,msits.com,Direct-Domain
 HOST-SUFFIX,msjingmi.com,Direct-Domain
 HOST-SUFFIX,msjpay.com,Direct-Domain
-HOST-SUFFIX,mskoo.com,Direct-Domain
 HOST-SUFFIX,mslmc.net,Direct-Domain
 HOST-SUFFIX,msltbio.com,Direct-Domain
 HOST-SUFFIX,mslzk.com,Direct-Domain
@@ -71484,7 +71467,6 @@ HOST-SUFFIX,p12345.com,Direct-Domain
 HOST-SUFFIX,p2cdn.com,Direct-Domain
 HOST-SUFFIX,p2hp.com,Direct-Domain
 HOST-SUFFIX,p2p001.com,Direct-Domain
-HOST-SUFFIX,p2pcq.com,Direct-Domain
 HOST-SUFFIX,p2peye.com,Direct-Domain
 HOST-SUFFIX,p2peye.net,Direct-Domain
 HOST-SUFFIX,p2psearchers.com,Direct-Domain
@@ -72648,7 +72630,6 @@ HOST-SUFFIX,pioneer-pharma.com,Direct-Domain
 HOST-SUFFIX,pioneer-pku.com,Direct-Domain
 HOST-SUFFIX,pioneerchina.com,Direct-Domain
 HOST-SUFFIX,pioneerep.com,Direct-Domain
-HOST-SUFFIX,pioneernews.cc,Direct-Domain
 HOST-SUFFIX,pipa.com,Direct-Domain
 HOST-SUFFIX,pipacoding.com,Direct-Domain
 HOST-SUFFIX,pipahealth.com,Direct-Domain
@@ -74121,6 +74102,7 @@ HOST-SUFFIX,qfeiche.com,Direct-Domain
 HOST-SUFFIX,qfiee.com,Direct-Domain
 HOST-SUFFIX,qfihdr.com,Direct-Domain
 HOST-SUFFIX,qfkjnb.club,Direct-Domain
+HOST-SUFFIX,qflyinc.com,Direct-Domain
 HOST-SUFFIX,qfns1.com,Direct-Domain
 HOST-SUFFIX,qfpay.com,Direct-Domain
 HOST-SUFFIX,qfpq.com,Direct-Domain
@@ -78173,8 +78155,6 @@ HOST-SUFFIX,s10000.com,Direct-Domain
 HOST-SUFFIX,s135.com,Direct-Domain
 HOST-SUFFIX,s163.com,Direct-Domain
 HOST-SUFFIX,s1979.com,Direct-Domain
-HOST-SUFFIX,s1blsecgerto.com,Direct-Domain
-HOST-SUFFIX,s1blseclvira.com,Direct-Domain
 HOST-SUFFIX,s1craft.com,Direct-Domain
 HOST-SUFFIX,s1mple.cc,Direct-Domain
 HOST-SUFFIX,s1mplecode.com,Direct-Domain
@@ -78614,7 +78594,6 @@ HOST-SUFFIX,sayodevice.com,Direct-Domain
 HOST-SUFFIX,saywash.com,Direct-Domain
 HOST-SUFFIX,sayyas.com,Direct-Domain
 HOST-SUFFIX,sazeoq8158.vip,Direct-Domain
-HOST-SUFFIX,sb1secapply4.com,Direct-Domain
 HOST-SUFFIX,sbc-mcc.com,Direct-Domain
 HOST-SUFFIX,sbf56.com,Direct-Domain
 HOST-SUFFIX,sbh15.com,Direct-Domain
@@ -84704,7 +84683,6 @@ HOST-SUFFIX,stfile.com,Direct-Domain
 HOST-SUFFIX,stg-certified-timestamp.globalsign.com,Direct-Domain
 HOST-SUFFIX,stg8.com,Direct-Domain
 HOST-SUFFIX,stgiantfilms.com,Direct-Domain
-HOST-SUFFIX,stgowan.com,Direct-Domain
 HOST-SUFFIX,sthforme.com,Direct-Domain
 HOST-SUFFIX,sthifi.com,Direct-Domain
 HOST-SUFFIX,sthke.com,Direct-Domain
@@ -87890,7 +87868,6 @@ HOST-SUFFIX,tech.citic,Direct-Domain
 HOST-SUFFIX,tech002.com,Direct-Domain
 HOST-SUFFIX,tech1024.com,Direct-Domain
 HOST-SUFFIX,tech110.net,Direct-Domain
-HOST-SUFFIX,tech2ipo.com,Direct-Domain
 HOST-SUFFIX,tech2real.com,Direct-Domain
 HOST-SUFFIX,tech4joy.com,Direct-Domain
 HOST-SUFFIX,techan.com,Direct-Domain
@@ -88618,6 +88595,7 @@ HOST-SUFFIX,tg-vision.net,Direct-Domain
 HOST-SUFFIX,tg0123.com,Direct-Domain
 HOST-SUFFIX,tg1234.com,Direct-Domain
 HOST-SUFFIX,tg138.com,Direct-Domain
+HOST-SUFFIX,tgalileo.com,Direct-Domain
 HOST-SUFFIX,tgametalent.com,Direct-Domain
 HOST-SUFFIX,tgbus.com,Direct-Domain
 HOST-SUFFIX,tgcid.org,Direct-Domain
@@ -103045,6 +103023,7 @@ HOST-SUFFIX,ydjt2288.com,Direct-Domain
 HOST-SUFFIX,ydjwy.net,Direct-Domain
 HOST-SUFFIX,ydjy.net,Direct-Domain
 HOST-SUFFIX,ydkj2019.com,Direct-Domain
+HOST-SUFFIX,ydkkej.com,Direct-Domain
 HOST-SUFFIX,ydl-sh.com,Direct-Domain
 HOST-SUFFIX,ydl.com,Direct-Domain
 HOST-SUFFIX,ydlcdn.com,Direct-Domain
@@ -104817,7 +104796,6 @@ HOST-SUFFIX,ynzs.com,Direct-Domain
 HOST-SUFFIX,ynztrq.com,Direct-Domain
 HOST-SUFFIX,ynztzh.com,Direct-Domain
 HOST-SUFFIX,ynzy-tobacco.com,Direct-Domain
-HOST-SUFFIX,ynzzwl.com,Direct-Domain
 HOST-SUFFIX,yo4399.com,Direct-Domain
 HOST-SUFFIX,yoagoa.com,Direct-Domain
 HOST-SUFFIX,yobo.ink,Direct-Domain

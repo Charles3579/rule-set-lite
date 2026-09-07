@@ -1,5 +1,5 @@
-# UPDATED: 2026-09-07 04:38:17
-# TOTAL: 3395
+# UPDATED: 2026-09-08 05:41:53
+# TOTAL: 3401
 IP-CIDR6,2001:250::/30,no-resolve
 IP-CIDR6,2001:254::/33,no-resolve
 IP-CIDR6,2001:255::/32,no-resolve
@@ -2447,6 +2447,11 @@ IP-CIDR6,2406:840:f500::/40,no-resolve
 IP-CIDR6,2406:840:f600::/42,no-resolve
 IP-CIDR6,2406:840:f640::/43,no-resolve
 IP-CIDR6,2406:840:f670::/44,no-resolve
+IP-CIDR6,2406:840:f680::/47,no-resolve
+IP-CIDR6,2406:840:f682::/48,no-resolve
+IP-CIDR6,2406:840:f685::/48,no-resolve
+IP-CIDR6,2406:840:f686::/47,no-resolve
+IP-CIDR6,2406:840:f688::/45,no-resolve
 IP-CIDR6,2406:840:f690::/44,no-resolve
 IP-CIDR6,2406:840:f6a0::/43,no-resolve
 IP-CIDR6,2406:840:f6c0::/42,no-resolve
@@ -2579,6 +2584,7 @@ IP-CIDR6,2406:840:fe26::/48,no-resolve
 IP-CIDR6,2406:840:fe28::/45,no-resolve
 IP-CIDR6,2406:840:fe30::/44,no-resolve
 IP-CIDR6,2406:840:fe40::/44,no-resolve
+IP-CIDR6,2406:840:fe51::/48,no-resolve
 IP-CIDR6,2406:840:fe52::/47,no-resolve
 IP-CIDR6,2406:840:fe54::/46,no-resolve
 IP-CIDR6,2406:840:fe58::/45,no-resolve

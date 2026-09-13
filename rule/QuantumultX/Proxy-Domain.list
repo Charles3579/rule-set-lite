@@ -1,5 +1,5 @@
-# UPDATED: 2026-09-12 05:08:01
-# TOTAL: 4558
+# UPDATED: 2026-09-14 05:01:00
+# TOTAL: 4542
 HOST-SUFFIX,000webhost.com,Proxy-Domain
 HOST-SUFFIX,0rz.tw,Proxy-Domain
 HOST-SUFFIX,1-apple.com.tw,Proxy-Domain
@@ -229,19 +229,15 @@ HOST-SUFFIX,apartments.com,Proxy-Domain
 HOST-SUFFIX,apat1989.org,Proxy-Domain
 HOST-SUFFIX,apernet.io,Proxy-Domain
 HOST-SUFFIX,api-flowercloud.com,Proxy-Domain
-HOST-SUFFIX,api-gl.lbkrs.com,Proxy-Domain
 HOST-SUFFIX,api-secure.recaptcha.net,Proxy-Domain
 HOST-SUFFIX,api-verify.recaptcha.net,Proxy-Domain
 HOST-SUFFIX,api.ai,Proxy-Domain
-HOST-SUFFIX,api.futunn.com,Proxy-Domain
-HOST-SUFFIX,api.lbkrs.com,Proxy-Domain
 HOST-SUFFIX,api.moomoobull.com,Proxy-Domain
 HOST-SUFFIX,api.palworldgame.com,Proxy-Domain
 HOST-SUFFIX,api.pureapk.com,Proxy-Domain
 HOST-SUFFIX,api.recaptcha.net,Proxy-Domain
 HOST-SUFFIX,api.shuaiapi.com,Proxy-Domain
 HOST-SUFFIX,api.steampowered.com,Proxy-Domain
-HOST-SUFFIX,api5.futunn.com,Proxy-Domain
 HOST-SUFFIX,apiary.io,Proxy-Domain
 HOST-SUFFIX,apigee.com,Proxy-Domain
 HOST-SUFFIX,apk.support,Proxy-Domain
@@ -700,7 +696,6 @@ HOST-SUFFIX,cdjp.org,Proxy-Domain
 HOST-SUFFIX,cdn-images.mailchimp.com,Proxy-Domain
 HOST-SUFFIX,cdn-telegram.org,Proxy-Domain
 HOST-SUFFIX,cdn.arstechnica.net,Proxy-Domain
-HOST-SUFFIX,cdn.futustatic.com,Proxy-Domain
 HOST-SUFFIX,cdn.jwplayer.com,Proxy-Domain
 HOST-SUFFIX,cdn.printfriendly.com,Proxy-Domain
 HOST-SUFFIX,cdn.seatguru.com,Proxy-Domain
@@ -854,7 +849,6 @@ HOST-SUFFIX,cn.fmnnow.com,Proxy-Domain
 HOST-SUFFIX,cn.sandscotaicentral.com,Proxy-Domain
 HOST-SUFFIX,cn.shafaqna.com,Proxy-Domain
 HOST-SUFFIX,cn.theaustralian.com.au,Proxy-Domain
-HOST-SUFFIX,cn.uptodown.com,Proxy-Domain
 HOST-SUFFIX,cna.com.tw,Proxy-Domain
 HOST-SUFFIX,cnbbnews.wordpress.com,Proxy-Domain
 HOST-SUFFIX,cnbeta.com.tw,Proxy-Domain
@@ -1096,7 +1090,6 @@ HOST-SUFFIX,dougscripts.com,Proxy-Domain
 HOST-SUFFIX,doujincafe.com,Proxy-Domain
 HOST-SUFFIX,dowjones.io,Proxy-Domain
 HOST-SUFFIX,download.dappcdn.com,Proxy-Domain
-HOST-SUFFIX,download.futunn.com,Proxy-Domain
 HOST-SUFFIX,dpool.top,Proxy-Domain
 HOST-SUFFIX,dpp.org.tw,Proxy-Domain
 HOST-SUFFIX,dpr.info,Proxy-Domain
@@ -2455,7 +2448,6 @@ HOST-SUFFIX,lycheen.com,Proxy-Domain
 HOST-SUFFIX,lyfhk.net,Proxy-Domain
 HOST-SUFFIX,lzjscript.com,Proxy-Domain
 HOST-SUFFIX,lzmtnews.org,Proxy-Domain
-HOST-SUFFIX,m.hkgalden.com,Proxy-Domain
 HOST-SUFFIX,m.me,Proxy-Domain
 HOST-SUFFIX,m.moegirl.org,Proxy-Domain
 HOST-SUFFIX,macgamestore.com,Proxy-Domain
@@ -2884,12 +2876,8 @@ HOST-SUFFIX,ooni.org,Proxy-Domain
 HOST-SUFFIX,open.firstory.me,Proxy-Domain
 HOST-SUFFIX,openai.com,Proxy-Domain
 HOST-SUFFIX,openapi-quote.longbridge.cn,Proxy-Domain
-HOST-SUFFIX,openapi-quote.longbridge.com,Proxy-Domain
 HOST-SUFFIX,openapi-trade.longbridge.cn,Proxy-Domain
-HOST-SUFFIX,openapi-trade.longbridge.com,Proxy-Domain
-HOST-SUFFIX,openapi.futunn.com,Proxy-Domain
 HOST-SUFFIX,openapi.longbridge.cn,Proxy-Domain
-HOST-SUFFIX,openapi.longbridge.com,Proxy-Domain
 HOST-SUFFIX,openart.ai,Proxy-Domain
 HOST-SUFFIX,opencritic.com,Proxy-Domain
 HOST-SUFFIX,opendemocracy.net,Proxy-Domain
@@ -3153,9 +3141,8 @@ HOST-SUFFIX,qmp4.com,Proxy-Domain
 HOST-SUFFIX,qoos.com,Proxy-Domain
 HOST-SUFFIX,qq.co.za,Proxy-Domain
 HOST-SUFFIX,qstatus.com,Proxy-Domain
-HOST-SUFFIX,qtcard.futunn.com,Proxy-Domain
-HOST-SUFFIX,qtcardfthk.futufin.com,Proxy-Domain
 HOST-SUFFIX,qtrac.eu,Proxy-Domain
+HOST-SUFFIX,quakemachinex.com,Proxy-Domain
 HOST-SUFFIX,quantumult.app,Proxy-Domain
 HOST-SUFFIX,questvisual.com,Proxy-Domain
 HOST-SUFFIX,quitccp.org,Proxy-Domain
@@ -3577,7 +3564,6 @@ HOST-SUFFIX,superpages.com,Proxy-Domain
 HOST-SUFFIX,supervpn.net,Proxy-Domain
 HOST-SUFFIX,superzooi.com,Proxy-Domain
 HOST-SUFFIX,supjav.com,Proxy-Domain
-HOST-SUFFIX,support.futunn.com,Proxy-Domain
 HOST-SUFFIX,supremecourt.gov,Proxy-Domain
 HOST-SUFFIX,suprememastertv.com,Proxy-Domain
 HOST-SUFFIX,surfeasy.com,Proxy-Domain
@@ -3849,8 +3835,6 @@ HOST-SUFFIX,totalvpn.com,Proxy-Domain
 HOST-SUFFIX,tou.tv,Proxy-Domain
 HOST-SUFFIX,tpi.org.tw,Proxy-Domain
 HOST-SUFFIX,tracfone.com,Proxy-Domain
-HOST-SUFFIX,trade.futunn.com,Proxy-Domain
-HOST-SUFFIX,trade.longportapp.com,Proxy-Domain
 HOST-SUFFIX,tradeup.com,Proxy-Domain
 HOST-SUFFIX,tradingview.com,Proxy-Domain
 HOST-SUFFIX,translate.goog,Proxy-Domain

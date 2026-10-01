@@ -1,5 +1,5 @@
-# UPDATED: 2026-10-01 06:28:07
-# TOTAL: 4547
+# UPDATED: 2026-10-02 06:49:44
+# TOTAL: 4550
 HOST-SUFFIX,000webhost.com,Proxy-Domain
 HOST-SUFFIX,0rz.tw,Proxy-Domain
 HOST-SUFFIX,1-apple.com.tw,Proxy-Domain
@@ -1451,6 +1451,7 @@ HOST-SUFFIX,futusg.com,Proxy-Domain
 HOST-SUFFIX,futustatic.com,Proxy-Domain
 HOST-SUFFIX,fututrade.com,Proxy-Domain
 HOST-SUFFIX,fututrustee.com,Proxy-Domain
+HOST-SUFFIX,fuyin116.com,Proxy-Domain
 HOST-SUFFIX,fw.cm,Proxy-Domain
 HOST-SUFFIX,fxcm-chinese.com,Proxy-Domain
 HOST-SUFFIX,fxnetworks.com,Proxy-Domain
@@ -2646,6 +2647,7 @@ HOST-SUFFIX,mthruf.com,Proxy-Domain
 HOST-SUFFIX,mubi.com,Proxy-Domain
 HOST-SUFFIX,mullvad.net,Proxy-Domain
 HOST-SUFFIX,multiply.com,Proxy-Domain
+HOST-SUFFIX,muse.ai,Proxy-Domain
 HOST-SUFFIX,music.amazon.com,Proxy-Domain
 HOST-SUFFIX,musixmatch.com,Proxy-Domain
 HOST-SUFFIX,muzi.com,Proxy-Domain
@@ -4153,6 +4155,7 @@ HOST-SUFFIX,waffle1999.com,Proxy-Domain
 HOST-SUFFIX,wainao.me,Proxy-Domain
 HOST-SUFFIX,walletconnect.com,Proxy-Domain
 HOST-SUFFIX,walletconnect.org,Proxy-Domain
+HOST-SUFFIX,wallhaven.cc,Proxy-Domain
 HOST-SUFFIX,wallmama.com,Proxy-Domain
 HOST-SUFFIX,wallpapercasa.com,Proxy-Domain
 HOST-SUFFIX,wallsttv.com,Proxy-Domain

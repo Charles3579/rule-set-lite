@@ -1,5 +1,5 @@
-# UPDATED: 2026-10-02 06:49:44
-# TOTAL: 3448
+# UPDATED: 2026-10-03 06:27:06
+# TOTAL: 3449
 IP-CIDR6,2001:250::/30,no-resolve
 IP-CIDR6,2001:254::/33,no-resolve
 IP-CIDR6,2001:255::/32,no-resolve
@@ -3060,6 +3060,7 @@ IP-CIDR6,2408:4004::/30,no-resolve
 IP-CIDR6,2408:4008::/29,no-resolve
 IP-CIDR6,2408:4010::/30,no-resolve
 IP-CIDR6,2408:4014::/31,no-resolve
+IP-CIDR6,2408:4016:1::/48,no-resolve
 IP-CIDR6,2408:4016:2::/47,no-resolve
 IP-CIDR6,2408:4016:4::/46,no-resolve
 IP-CIDR6,2408:4016:8::/45,no-resolve

@@ -1,5 +1,5 @@
-# UPDATED: 2026-10-03 06:27:06
-# TOTAL: 4550
+# UPDATED: 2026-10-04 05:37:48
+# TOTAL: 4551
 HOST-SUFFIX,000webhost.com,Proxy-Domain
 HOST-SUFFIX,0rz.tw,Proxy-Domain
 HOST-SUFFIX,1-apple.com.tw,Proxy-Domain
@@ -3391,6 +3391,7 @@ HOST-SUFFIX,simpleswap.io,Proxy-Domain
 HOST-SUFFIX,simplex.chat,Proxy-Domain
 HOST-SUFFIX,sina.com.hk,Proxy-Domain
 HOST-SUFFIX,sinchew.com.my,Proxy-Domain
+HOST-SUFFIX,sing-box.sagernet.org,Proxy-Domain
 HOST-SUFFIX,singaporepools.com.sg,Proxy-Domain
 HOST-SUFFIX,singlelogin.se,Proxy-Domain
 HOST-SUFFIX,singtao.com,Proxy-Domain

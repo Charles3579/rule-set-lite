@@ -1,5 +1,5 @@
-# UPDATED: 2026-10-17 05:30:06
-# TOTAL: 4587
+# UPDATED: 2026-10-18 04:48:18
+# TOTAL: 4590
 HOST-SUFFIX,000webhost.com,Proxy-Domain
 HOST-SUFFIX,0rz.tw,Proxy-Domain
 HOST-SUFFIX,1-apple.com.tw,Proxy-Domain
@@ -61,6 +61,7 @@ HOST-SUFFIX,6parker.com,Proxy-Domain
 HOST-SUFFIX,6parknews.com,Proxy-Domain
 HOST-SUFFIX,711-cloud.net,Proxy-Domain
 HOST-SUFFIX,7capture.com,Proxy-Domain
+HOST-SUFFIX,7x24hrs.com,Proxy-Domain
 HOST-SUFFIX,8-d.com,Proxy-Domain
 HOST-SUFFIX,85cc.us,Proxy-Domain
 HOST-SUFFIX,881903.com,Proxy-Domain
@@ -2553,7 +2554,9 @@ HOST-SUFFIX,meripet.com,Proxy-Domain
 HOST-SUFFIX,merit-times.com.tw,Proxy-Domain
 HOST-SUFFIX,mesl.cloud,Proxy-Domain
 HOST-SUFFIX,messenger.com,Proxy-Domain
+HOST-SUFFIX,meta.ai,Proxy-Domain
 HOST-SUFFIX,meta.com,Proxy-Domain
+HOST-SUFFIX,metaaivm.com,Proxy-Domain
 HOST-SUFFIX,metafilter.com,Proxy-Domain
 HOST-SUFFIX,metamask.io,Proxy-Domain
 HOST-SUFFIX,metart.com,Proxy-Domain

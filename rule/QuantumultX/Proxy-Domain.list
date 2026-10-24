@@ -1,5 +1,5 @@
-# UPDATED: 2026-10-24 05:34:10
-# TOTAL: 4590
+# UPDATED: 2026-10-25 05:02:51
+# TOTAL: 4592
 HOST-SUFFIX,000webhost.com,Proxy-Domain
 HOST-SUFFIX,0rz.tw,Proxy-Domain
 HOST-SUFFIX,1-apple.com.tw,Proxy-Domain
@@ -893,6 +893,7 @@ HOST-SUFFIX,comparitech.com,Proxy-Domain
 HOST-SUFFIX,compileheart.com,Proxy-Domain
 HOST-SUFFIX,connect.facebook.net,Proxy-Domain
 HOST-SUFFIX,conoha.jp,Proxy-Domain
+HOST-SUFFIX,console.typesafe.ai,Proxy-Domain
 HOST-SUFFIX,contests.twilio.com,Proxy-Domain
 HOST-SUFFIX,cool18.com,Proxy-Domain
 HOST-SUFFIX,coolaler.com,Proxy-Domain
@@ -1470,6 +1471,7 @@ HOST-SUFFIX,g.ai,Proxy-Domain
 HOST-SUFFIX,g.co,Proxy-Domain
 HOST-SUFFIX,g0v.social,Proxy-Domain
 HOST-SUFFIX,g6hentai.com,Proxy-Domain
+HOST-SUFFIX,ga.jspm.io,Proxy-Domain
 HOST-SUFFIX,gab.com,Proxy-Domain
 HOST-SUFFIX,gabocorp.com,Proxy-Domain
 HOST-SUFFIX,gagaoolala.com,Proxy-Domain

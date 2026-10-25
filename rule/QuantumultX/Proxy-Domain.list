@@ -1,5 +1,5 @@
-# UPDATED: 2026-10-25 05:02:51
-# TOTAL: 4592
+# UPDATED: 2026-10-26 05:04:09
+# TOTAL: 4601
 HOST-SUFFIX,000webhost.com,Proxy-Domain
 HOST-SUFFIX,0rz.tw,Proxy-Domain
 HOST-SUFFIX,1-apple.com.tw,Proxy-Domain
@@ -8,6 +8,7 @@ HOST-SUFFIX,10beasts.net,Proxy-Domain
 HOST-SUFFIX,10musume.com,Proxy-Domain
 HOST-SUFFIX,123av.com,Proxy-Domain
 HOST-SUFFIX,123av.me,Proxy-Domain
+HOST-SUFFIX,123av.org,Proxy-Domain
 HOST-SUFFIX,12bet.com,Proxy-Domain
 HOST-SUFFIX,12vpn.com,Proxy-Domain
 HOST-SUFFIX,12vpn.net,Proxy-Domain
@@ -2300,6 +2301,7 @@ HOST-SUFFIX,khc.edu.tw,Proxy-Domain
 HOST-SUFFIX,kichiku-doujinko.com,Proxy-Domain
 HOST-SUFFIX,kik.com,Proxy-Domain
 HOST-SUFFIX,killwall.com,Proxy-Domain
+HOST-SUFFIX,kimootoko.net,Proxy-Domain
 HOST-SUFFIX,kindle4rss.com,Proxy-Domain
 HOST-SUFFIX,kindleren.com,Proxy-Domain
 HOST-SUFFIX,kingdomsalvation.org,Proxy-Domain
@@ -2599,6 +2601,7 @@ HOST-SUFFIX,mingshengbao.com,Proxy-Domain
 HOST-SUFFIX,minhhue.net,Proxy-Domain
 HOST-SUFFIX,miningpoolhub.com,Proxy-Domain
 HOST-SUFFIX,ministrybooks.org,Proxy-Domain
+HOST-SUFFIX,minkch.com,Proxy-Domain
 HOST-SUFFIX,minzhuzhongguo.org,Proxy-Domain
 HOST-SUFFIX,miraheze.org,Proxy-Domain
 HOST-SUFFIX,mirdc.org.tw,Proxy-Domain
@@ -2662,6 +2665,7 @@ HOST-SUFFIX,mos.ru,Proxy-Domain
 HOST-SUFFIX,mosavi.io,Proxy-Domain
 HOST-SUFFIX,motherless.com,Proxy-Domain
 HOST-SUFFIX,movements.org,Proxy-Domain
+HOST-SUFFIX,movie.eroterest.net,Proxy-Domain
 HOST-SUFFIX,moviefap.com,Proxy-Domain
 HOST-SUFFIX,mpettis.com,Proxy-Domain
 HOST-SUFFIX,mpfinance.com,Proxy-Domain
@@ -2803,6 +2807,9 @@ HOST-SUFFIX,nitter.net,Proxy-Domain
 HOST-SUFFIX,niu.moe,Proxy-Domain
 HOST-SUFFIX,niusnews.com,Proxy-Domain
 HOST-SUFFIX,njactb.org,Proxy-Domain
+HOST-SUFFIX,njav.com,Proxy-Domain
+HOST-SUFFIX,njav.tv,Proxy-Domain
+HOST-SUFFIX,njavtv.com,Proxy-Domain
 HOST-SUFFIX,nlfreevpn.com,Proxy-Domain
 HOST-SUFFIX,nmsl.website,Proxy-Domain
 HOST-SUFFIX,nnc.sh,Proxy-Domain
@@ -3064,6 +3071,7 @@ HOST-SUFFIX,plexvpn.pro,Proxy-Domain
 HOST-SUFFIX,plurk.com,Proxy-Domain
 HOST-SUFFIX,plus.codes,Proxy-Domain
 HOST-SUFFIX,pmatehunter.com,Proxy-Domain
+HOST-SUFFIX,po-kaki-to.com,Proxy-Domain
 HOST-SUFFIX,po2b.com,Proxy-Domain
 HOST-SUFFIX,podbean.com,Proxy-Domain
 HOST-SUFFIX,podcast.co,Proxy-Domain
@@ -4583,6 +4591,7 @@ HOST-SUFFIX,zophar.net,Proxy-Domain
 HOST-SUFFIX,zorrovpn.com,Proxy-Domain
 HOST-SUFFIX,zouter.io,Proxy-Domain
 HOST-SUFFIX,zozotown.com,Proxy-Domain
+HOST-SUFFIX,zozovideo.com,Proxy-Domain
 HOST-SUFFIX,zpn.im,Proxy-Domain
 HOST-SUFFIX,zspeeder.me,Proxy-Domain
 HOST-SUFFIX,zuo.la,Proxy-Domain

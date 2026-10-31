@@ -1,5 +1,5 @@
-# UPDATED: 2026-10-31 06:33:39
-# TOTAL: 4601
+# UPDATED: 2026-11-01 05:47:00
+# TOTAL: 4606
 HOST-SUFFIX,000webhost.com,Proxy-Domain
 HOST-SUFFIX,0rz.tw,Proxy-Domain
 HOST-SUFFIX,1-apple.com.tw,Proxy-Domain
@@ -214,6 +214,7 @@ HOST-SUFFIX,anobii.com,Proxy-Domain
 HOST-SUFFIX,anonfiles.com,Proxy-Domain
 HOST-SUFFIX,anonymouse.org,Proxy-Domain
 HOST-SUFFIX,anthonycalzadilla.com,Proxy-Domain
+HOST-SUFFIX,anthropic.auth0.com,Proxy-Domain
 HOST-SUFFIX,anthropic.com,Proxy-Domain
 HOST-SUFFIX,antiwave.net,Proxy-Domain
 HOST-SUFFIX,antpool.com,Proxy-Domain
@@ -597,6 +598,7 @@ HOST-SUFFIX,broadpressinc.com,Proxy-Domain
 HOST-SUFFIX,brookings.edu,Proxy-Domain
 HOST-SUFFIX,brutaltgp.com,Proxy-Domain
 HOST-SUFFIX,bsky.app,Proxy-Domain
+HOST-SUFFIX,bsky.chat,Proxy-Domain
 HOST-SUFFIX,bsky.network,Proxy-Domain
 HOST-SUFFIX,bsky.social,Proxy-Domain
 HOST-SUFFIX,bt4g.org,Proxy-Domain
@@ -829,7 +831,10 @@ HOST-SUFFIX,ck101.com,Proxy-Domain
 HOST-SUFFIX,clashyun.com,Proxy-Domain
 HOST-SUFFIX,classicalguitarblog.net,Proxy-Domain
 HOST-SUFFIX,claude.ai,Proxy-Domain
+HOST-SUFFIX,claude.app,Proxy-Domain
 HOST-SUFFIX,claude.com,Proxy-Domain
+HOST-SUFFIX,claudemcpcontent.com,Proxy-Domain
+HOST-SUFFIX,claudeusercontent.com,Proxy-Domain
 HOST-SUFFIX,claw.cloud,Proxy-Domain
 HOST-SUFFIX,cldr.unicode.org,Proxy-Domain
 HOST-SUFFIX,clearsurance.com,Proxy-Domain

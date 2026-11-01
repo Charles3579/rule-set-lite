@@ -1,5 +1,5 @@
-# UPDATED: 2026-11-01 05:47:00
-# TOTAL: 4606
+# UPDATED: 2026-11-02 06:15:00
+# TOTAL: 4609
 HOST-SUFFIX,000webhost.com,Proxy-Domain
 HOST-SUFFIX,0rz.tw,Proxy-Domain
 HOST-SUFFIX,1-apple.com.tw,Proxy-Domain
@@ -242,6 +242,7 @@ HOST-SUFFIX,api.pureapk.com,Proxy-Domain
 HOST-SUFFIX,api.recaptcha.net,Proxy-Domain
 HOST-SUFFIX,api.shuaiapi.com,Proxy-Domain
 HOST-SUFFIX,api.steampowered.com,Proxy-Domain
+HOST-SUFFIX,api.themoviedb.org,Proxy-Domain
 HOST-SUFFIX,apiary.io,Proxy-Domain
 HOST-SUFFIX,apigee.com,Proxy-Domain
 HOST-SUFFIX,apk.support,Proxy-Domain
@@ -3881,6 +3882,7 @@ HOST-SUFFIX,torlock.com,Proxy-Domain
 HOST-SUFFIX,torproject.org,Proxy-Domain
 HOST-SUFFIX,torrentgalaxy.to,Proxy-Domain
 HOST-SUFFIX,torrentkitty.tv,Proxy-Domain
+HOST-SUFFIX,torrentleech.org,Proxy-Domain
 HOST-SUFFIX,torrentprivacy.com,Proxy-Domain
 HOST-SUFFIX,torrentproject.se,Proxy-Domain
 HOST-SUFFIX,torrenty.org,Proxy-Domain
@@ -4523,6 +4525,7 @@ HOST-SUFFIX,youtubeeducation.com,Proxy-Domain
 HOST-SUFFIX,youtubegaming.com,Proxy-Domain
 HOST-SUFFIX,youtubekids.com,Proxy-Domain
 HOST-SUFFIX,youversion.com,Proxy-Domain
+HOST-SUFFIX,youversionapi.com,Proxy-Domain
 HOST-SUFFIX,youwin.com,Proxy-Domain
 HOST-SUFFIX,youxu.info,Proxy-Domain
 HOST-SUFFIX,yt.be,Proxy-Domain

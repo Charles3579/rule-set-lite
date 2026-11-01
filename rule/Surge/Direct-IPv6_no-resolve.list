@@ -1,5 +1,5 @@
-# UPDATED: 2026-11-01 05:47:00
-# TOTAL: 3490
+# UPDATED: 2026-11-02 06:15:00
+# TOTAL: 3493
 IP-CIDR6,2001:250::/30,no-resolve
 IP-CIDR6,2001:254::/33,no-resolve
 IP-CIDR6,2001:255::/32,no-resolve
@@ -2409,7 +2409,7 @@ IP-CIDR6,2406:840:e900::/40,no-resolve
 IP-CIDR6,2406:840:ea00::/40,no-resolve
 IP-CIDR6,2406:840:eb06::/48,no-resolve
 IP-CIDR6,2406:840:eb09::/48,no-resolve
-IP-CIDR6,2406:840:eb0a::/47,no-resolve
+IP-CIDR6,2406:840:eb0a::/48,no-resolve
 IP-CIDR6,2406:840:eb0c::/47,no-resolve
 IP-CIDR6,2406:840:eb0e::/48,no-resolve
 IP-CIDR6,2406:840:eb10::/44,no-resolve
@@ -2629,7 +2629,6 @@ IP-CIDR6,2406:840:fe26::/48,no-resolve
 IP-CIDR6,2406:840:fe28::/45,no-resolve
 IP-CIDR6,2406:840:fe30::/44,no-resolve
 IP-CIDR6,2406:840:fe40::/44,no-resolve
-IP-CIDR6,2406:840:fe51::/48,no-resolve
 IP-CIDR6,2406:840:fe52::/47,no-resolve
 IP-CIDR6,2406:840:fe54::/46,no-resolve
 IP-CIDR6,2406:840:fe58::/45,no-resolve
@@ -3089,6 +3088,7 @@ IP-CIDR6,2408:4004::/30,no-resolve
 IP-CIDR6,2408:4008::/29,no-resolve
 IP-CIDR6,2408:4010::/30,no-resolve
 IP-CIDR6,2408:4014::/31,no-resolve
+IP-CIDR6,2408:4016:1::/48,no-resolve
 IP-CIDR6,2408:4016:2::/47,no-resolve
 IP-CIDR6,2408:4016:4::/46,no-resolve
 IP-CIDR6,2408:4016:8::/45,no-resolve
@@ -3258,7 +3258,8 @@ IP-CIDR6,2620:149:a40::/46,no-resolve
 IP-CIDR6,2a01:b740:984:100::12/128,no-resolve
 IP-CIDR6,2a01:b740:984:100::1a/128,no-resolve
 IP-CIDR6,2a01:b740:984:100::2:2/128,no-resolve
-IP-CIDR6,2a01:b740:984:100::2:4/126,no-resolve
+IP-CIDR6,2a01:b740:984:100::2:5/128,no-resolve
+IP-CIDR6,2a01:b740:984:100::2:6/127,no-resolve
 IP-CIDR6,2a01:b740:a41::/48,no-resolve
 IP-CIDR6,2a03:f900::/29,no-resolve
 IP-CIDR6,2a04:3e00::/48,no-resolve
@@ -3377,7 +3378,9 @@ IP-CIDR6,2a0a:d685:220::/43,no-resolve
 IP-CIDR6,2a0a:d685:240::/42,no-resolve
 IP-CIDR6,2a0a:d685:280::/41,no-resolve
 IP-CIDR6,2a0a:d685:400::/40,no-resolve
-IP-CIDR6,2a0a:d685:500::/45,no-resolve
+IP-CIDR6,2a0a:d685:500::/46,no-resolve
+IP-CIDR6,2a0a:d685:504::/48,no-resolve
+IP-CIDR6,2a0a:d685:506::/47,no-resolve
 IP-CIDR6,2a0a:d685:508::/48,no-resolve
 IP-CIDR6,2a0a:d685:50a::/47,no-resolve
 IP-CIDR6,2a0a:d685:50c::/46,no-resolve

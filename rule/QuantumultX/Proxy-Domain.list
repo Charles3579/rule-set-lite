@@ -1,4 +1,4 @@
-# UPDATED: 2026-11-06 07:45:56
+# UPDATED: 2026-11-07 07:23:13
 # TOTAL: 4610
 HOST-SUFFIX,000webhost.com,Proxy-Domain
 HOST-SUFFIX,0rz.tw,Proxy-Domain
@@ -2528,7 +2528,6 @@ HOST-SUFFIX,matters.news,Proxy-Domain
 HOST-SUFFIX,matters.town,Proxy-Domain
 HOST-SUFFIX,matthewdgreen.wordpress.com,Proxy-Domain
 HOST-SUFFIX,mattwilcox.net,Proxy-Domain
-HOST-SUFFIX,maven.neoforged.net,Proxy-Domain
 HOST-SUFFIX,mcadforums.com,Proxy-Domain
 HOST-SUFFIX,mcaf.ee,Proxy-Domain
 HOST-SUFFIX,mceindex.com,Proxy-Domain
@@ -2746,6 +2745,7 @@ HOST-SUFFIX,ned.org,Proxy-Domain
 HOST-SUFFIX,nekoslovakia.net,Proxy-Domain
 HOST-SUFFIX,neo-miracle.com,Proxy-Domain
 HOST-SUFFIX,neodb.social,Proxy-Domain
+HOST-SUFFIX,neoforged.net,Proxy-Domain
 HOST-SUFFIX,neowin.net,Proxy-Domain
 HOST-SUFFIX,nephobox.com,Proxy-Domain
 HOST-SUFFIX,netalert.me,Proxy-Domain

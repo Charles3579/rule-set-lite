@@ -1,5 +1,5 @@
-# UPDATED: 2026-11-27 09:51:33
-# TOTAL: 4639
+# UPDATED: 2026-11-28 09:33:46
+# TOTAL: 4642
 HOST-SUFFIX,000webhost.com,Proxy-Domain
 HOST-SUFFIX,0rz.tw,Proxy-Domain
 HOST-SUFFIX,1-apple.com.tw,Proxy-Domain
@@ -138,6 +138,7 @@ HOST-SUFFIX,agoogleaday.com,Proxy-Domain
 HOST-SUFFIX,agro.hk,Proxy-Domain
 HOST-SUFFIX,ai.dev,Proxy-Domain
 HOST-SUFFIX,ai.studio,Proxy-Domain
+HOST-SUFFIX,aicu.cc,Proxy-Domain
 HOST-SUFFIX,aidc.com.tw,Proxy-Domain
 HOST-SUFFIX,aihub.top,Proxy-Domain
 HOST-SUFFIX,aiosearch.com,Proxy-Domain
@@ -1000,6 +1001,7 @@ HOST-SUFFIX,dalianmeng.org,Proxy-Domain
 HOST-SUFFIX,daliulian.org,Proxy-Domain
 HOST-SUFFIX,danbooru.donmai.us,Proxy-Domain
 HOST-SUFFIX,danke4china.net,Proxy-Domain
+HOST-SUFFIX,danmakus.com,Proxy-Domain
 HOST-SUFFIX,darmau.co,Proxy-Domain
 HOST-SUFFIX,darpa.mil,Proxy-Domain
 HOST-SUFFIX,darrenliuwei.com,Proxy-Domain
@@ -3546,6 +3548,7 @@ HOST-SUFFIX,southmongolia.org,Proxy-Domain
 HOST-SUFFIX,southnews.com.tw,Proxy-Domain
 HOST-SUFFIX,southpark.cc.com,Proxy-Domain
 HOST-SUFFIX,sowers.org.hk,Proxy-Domain
+HOST-SUFFIX,spacedesk.net,Proxy-Domain
 HOST-SUFFIX,spaceforce.mil,Proxy-Domain
 HOST-SUFFIX,spaces.hightail.com,Proxy-Domain
 HOST-SUFFIX,spacex.com,Proxy-Domain
